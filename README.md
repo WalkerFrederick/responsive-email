@@ -1,5 +1,5 @@
 # responsive-email
-*A repo for displaying some of my HTML emails*
+A repo for displaying some of my HTML emails
 <br>
 Feel free to use them!
 
